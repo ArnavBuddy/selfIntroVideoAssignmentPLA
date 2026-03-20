@@ -2,6 +2,7 @@
 
 ## 👤 Student Details
 - **Name:** Arnav Majithia
+- **Registration Number:** 23BCE11196
 - **Slot:** C13
 
 ## 🎥 Self Introduction Video
